@@ -1,0 +1,61 @@
+# 
+{
+'Каталог': 'https://dixy.ru/catalog/',
+'Кондитерские изделия': 'https://dixy.ru/catalog/konditerskie-izdeliya',
+'Готовые завтраки, семечки, сухофрукты': 'https://dixy.ru/catalog/gotovye-zavtraki-semechki-sukhofrukty',
+'Консервы, соусы': 'https://dixy.ru/catalog/konservy-sousy',
+'Кофе, чай': 'https://dixy.ru/catalog/kofe-chay',
+'Красота': 'https://dixy.ru/catalog/krasota',
+'Крупы, завтраки, специи': 'https://dixy.ru/catalog/krupy-zavtraki-spetsii',
+'Кулинария, заморозка, мороженое': 'https://dixy.ru/catalog/kulinariya-zamorozka-morozhenoe',
+'Лучшее предложение': 'https://dixy.ru/catalog/luchshee-predlozhenie',
+'Масло, сыры': 'https://dixy.ru/catalog/maslo-syry',
+'Молочная гастрономия': 'https://dixy.ru/catalog/molochnaya-gastronomiya',
+'Мясная гастрономия': 'https://dixy.ru/catalog/myasnaya-gastronomiya',
+'Мясо, яйцо': 'https://dixy.ru/catalog/myaso-yaytso',
+'Напитки': 'https://dixy.ru/catalog/napitki',
+'Овощи и фрукты': 'https://dixy.ru/catalog/ovoshchi-i-frukty',
+'Товар дня': 'https://dixy.ru/catalog/tovar-dnya',
+'Товары для детей': 'https://dixy.ru/catalog/tovary-dlya-detey',
+'Товары для животных': 'https://dixy.ru/catalog/tovary-dlya-zhivotnykh',
+'Хлеб, торты': 'https://dixy.ru/catalog/khleb-torty',
+'Чистота': 'https://dixy.ru/catalog/chistota'
+}
+#
+[
+'Кондитерские изделия',
+'Готовые завтраки, семечки, сухофрукты',
+'Консервы, соусы', 'Кофе, чай', 'Красота',
+'Крупы, завтраки, специи',
+'Кулинария, заморозка, мороженое',
+'Лучшее предложение', 'Масло, сыры',
+'Молочная гастрономия', 'Мясная гастрономия',
+'Мясо, яйцо', 'Напитки',
+'Овощи и фрукты',
+'Товар дня',
+'Товары для детей',
+'Товары для животных',
+'Хлеб, торты',
+'Чистота'
+]
+#
+[
+'konditerskie-izdeliya',
+'gotovye-zavtraki-semechki-sukhofrukty',
+'konservy-sousy', 'kofe-chay',
+'krasota',
+'krupy-zavtraki-spetsii',
+'kulinariya-zamorozka-morozhenoe',
+'luchshee-predlozhenie',
+'maslo-syry',
+'molochnaya-gastronomiya',
+'myasnaya-gastronomiya',
+'myaso-yaytso',
+'napitki',
+'ovoshchi-i-frukty',
+'tovar-dnya',
+'tovary-dlya-detey',
+'tovary-dlya-zhivotnykh',
+'khleb-torty',
+'chistota'
+]
